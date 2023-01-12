@@ -43,7 +43,3 @@ Profile Visits
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
 </p>
 <br />
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ajayshrestha47/ajayshrestha47/main/resources/img/github-contribution-grid-snake.svg"
-    alt="github" />
-</p>
