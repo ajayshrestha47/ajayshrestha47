@@ -31,16 +31,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
    <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
 </p>
