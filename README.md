@@ -5,7 +5,7 @@
 <img src="https://profile-counter.glitch.me/ajayshrestha47/count.svg">
 
 **Languages and Tools:**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="450px"></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="300px"></picture>
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
