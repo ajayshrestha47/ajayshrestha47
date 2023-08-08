@@ -43,12 +43,3 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
 </p>
 <br />
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Activity </b>
-<div align="left">          
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayshrestha47&layout=compact&theme=default" />                                                             
-  
-[![Azay Shrestha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajayshrestha47&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Azay Shrestha's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ajayshrestha47&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
